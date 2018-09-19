@@ -14,7 +14,7 @@ Il Regolamento Generale sulla Protezione dei Dati (GDPR) dell’Unione europea s
 
 Microsoft si impegna ad aderire al GDPR, nonché a offrire una varietà di prodotti, funzionalità, documenti e risorse per assistere i suoi clienti a rispettare gli obblighi di conformità imposti dal GDPR. Segue una descrizione degli impegni contrattuali di Microsoft verso i suoi clienti riguardo ai dati personali raccolti dai software aziendali:
 
-** Microsoft si impegna nei confronti dei suoi clienti relativamente al GDPR?**
+**Microsoft si impegna nei confronti dei suoi clienti relativamente al GDPR?**
 
 Sì. Il GDPR richiede che gli addetti al controllo (come organizzazioni e operatori che utilizzano i servizi online aziendali di Microsoft) usino soltanto processori (come Microsoft) che trattano i dati personali per conto del processore principale e offrono sufficienti garanzie volte a soddisfare i requisiti chiave del GDPR. Microsoft ha adottato misure proattive atte a offrire tali impegni a tutti i clienti dei servizi online aziendali nell’ambito dei contratti di sottoscrizione e alle società che hanno stipulato contratti multi licenza nell’ambito dei loro accordi aziendali. I clienti di altri software aziendali disponibili a livello generale e concessi in licenza da Microsoft o dalle sue consociate godono altresì dei benefici derivanti dagli impegni di Microsoft relativi al GDPR , come descritto in questa comunicazione, nella misura in cui il software tratta dati personali.
 
