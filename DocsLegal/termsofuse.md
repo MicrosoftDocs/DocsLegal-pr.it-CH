@@ -6,17 +6,16 @@ author: ''
 manager: ''
 ms.date: 09/19/2018
 ms.topic: article
-ms.prod: ''
-ms.service: ''
+ms.prod: legal
 ms.technology: ''
 ms.assetid: 674fcfe7-14bb-4fe1-8a25-cbe6eca5dcd1
 layout: ContentPage
-ms.openlocfilehash: 07d175c205ed781a0eef363d4e4015810c53c3bb
-ms.sourcegitcommit: 6925c5b4ad2faff22d877acd2e07e09d289b5507
+ms.openlocfilehash: 904b079bf9580699105e1f73836cb8f1127c101f
+ms.sourcegitcommit: 3cfbabd1cd8dac0925815ab42ae1640787749fb7
 ms.translationtype: HT
 ms.contentlocale: it-CH
-ms.lasthandoff: 06/05/2020
-ms.locfileid: "77570884"
+ms.lasthandoff: 08/14/2021
+ms.locfileid: "122177375"
 ---
 # <a name="docsmicrosoftcom---terms-of-use"></a>docs.microsoft.com - Condizioni di utilizzo
 
@@ -34,7 +33,7 @@ Salvo quanto diversamente specificato, i Servizi potranno essere utilizzati escl
 
 ## <a name="privacy-and-protection-of-personal-information"></a>Privacy e protezione dei dati personali
 
-Microsoft protegge la privacy dell'Utente. L’Utente dovrà leggere l’[Informativa sulla Privacy di Microsoft](https://privacy.microsoft.com/en-us/privacystatement) (l’“Informativa sulla Privacy”) poiché descrive i tipi di dati che Microsoft raccoglie tramite l’Utente e il dispositivo, la modalità di utilizzo di tali dati e le basi legali per il loro trattamento. L’Informativa sulla privacy descrive inoltre in che modo Microsoft utilizza i Materiali prodotti (come definiti nel presente documento), i commenti, le valutazioni o le recensioni dei Servizi, comunicazioni, file, foto, documenti, audio, opere digitali, stream live, video e qualsiasi altro contenuto caricato, archiviato, trasmesso o condiviso attraverso i Servizi, (collettivamente, “il Contenuto dell’Utente”). Nel caso in cui il trattamento sia basato sul consenso e nella misura massima consentita dalla legge, accettando le presenti Condizioni, l’Utente acconsente alla raccolta, al trattamento e alla divulgazione, da parte di Microsoft, dei dati e del Contenuto dell’Utente, secondo le modalità descritte nell’Informativa sulla privacy. In alcuni casi, Microsoft fornirà una comunicazione specifica e richiederà il consenso dell’Utente, come indicato nell’Informativa sulla privacy.
+Microsoft protegge la privacy dell'Utente. L’Utente dovrà leggere l’[Informativa sulla Privacy di Microsoft](https://privacy.microsoft.com/privacystatement) (l’“Informativa sulla Privacy”) poiché descrive i tipi di dati che Microsoft raccoglie tramite l’Utente e il dispositivo, la modalità di utilizzo di tali dati e le basi legali per il loro trattamento. L’Informativa sulla privacy descrive inoltre in che modo Microsoft utilizza i Materiali prodotti (come definiti nel presente documento), i commenti, le valutazioni o le recensioni dei Servizi, comunicazioni, file, foto, documenti, audio, opere digitali, stream live, video e qualsiasi altro contenuto caricato, archiviato, trasmesso o condiviso attraverso i Servizi, (collettivamente, “il Contenuto dell’Utente”). Nel caso in cui il trattamento sia basato sul consenso e nella misura massima consentita dalla legge, accettando le presenti Condizioni, l’Utente acconsente alla raccolta, al trattamento e alla divulgazione, da parte di Microsoft, dei dati e del Contenuto dell’Utente, secondo le modalità descritte nell’Informativa sulla privacy. In alcuni casi, Microsoft fornirà una comunicazione specifica e richiederà il consenso dell’Utente, come indicato nell’Informativa sulla privacy.
 
 **Informazioni e contenuto dell’Utente pubblici**: Le informazioni dell’Utente fornite (compresi nome utente, nome visualizzato, immagine avatar, biografia, qualifica e organizzazione e i risultati dell’Utente) possono essere visualizzate da altri. È necessario fornire solo un nome utente e un nome visualizzato per utilizzare il profilo tecnico. Tutti gli altri campi sono facoltativi. È possibile aggiornare il nome utente e il nome visualizzato in qualsiasi momento. Microsoft può anche raccogliere e visualizzare pubblicamente la data in cui l’Utente ha eseguito la registrazione del profilo tecnico e l’affiliazione con Microsoft.
 
@@ -71,7 +70,7 @@ IN NESSUN CASO MICROSOFT E/O I RELATIVI FORNITORI SARANNO RESPONSABILI PER DANNI
 
 Potrebbe essere necessario un account Microsoft, un account Active Directory Azure o un account Profilo tecnico per accedere ad alcuni dei Servizi.
 
-**Account Microsoft**. L’account Microsoft consente all’Utente di accedere a prodotti, siti Web e servizi forniti da Microsoft e da alcuni partner Microsoft. L’Utente può creare un account Microsoft registrandosi [online](https://signup.live.com/). Gli account Microsoft sono soggetti al [Contratto di Servizi Microsoft](https://www.microsoft.com/en-us/servicesagreement/).
+**Account Microsoft**. L’account Microsoft consente all’Utente di accedere a prodotti, siti Web e servizi forniti da Microsoft e da alcuni partner Microsoft. L’Utente può creare un account Microsoft registrandosi [online](https://signup.live.com/). Gli account Microsoft sono soggetti al [Contratto di Servizi Microsoft](https://www.microsoft.com/servicesagreement/).
 
 **Account Active Directory Azure**. L’Utente potrebbe avere un account con Microsoft attraverso un’organizzazione a cui appartiene. Per ulteriori informazioni sull’account, l’Utente potrà contattare l’amministratore della propria organizzazione.
 

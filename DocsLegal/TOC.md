@@ -1,48 +1,50 @@
 
 # [Regolamento generale sulla protezione dei dati (GDPR)](gdpr.md)
 # [Condizioni di licenza software Azure](/legal/information-protection/software-license-terms)
+# [Contratto Microsoft per gli sviluppatori](MDSA.md)
 # [Condizioni di utilizzo](/legal/termsofuse)
-<!--
-## [Basco](software-license-terms-eu-es.md)
-## [Bulgaro](software-license-terms-bg-bg.md)
-## [Catalano](software-license-terms-ca-es.md)
-## [Cinese - Semplificato](software-license-terms-zh-tw.md)
-## [Cinese - Tradizionale](software-license-terms-zh-cn.md)
-## [Croato](software-license-terms-hr-hr.md)
-## [Ceco](software-license-terms-cs-cz.md)
-## [Danese](software-license-terms-da-dk.md)
-## [Olandese](software-license-terms-nl-nl.md)
-## [Estone](software-license-terms-et-ee.md)
-## [Finlandese](software-license-terms-fi-fi.md)
-## [Francese](software-license-terms-fr-fr.md)
-## [Gallego](software-license-terms-gl-es.md)
-## [Tedesco](software-license-terms-de-de.md)
-## [Greco](software-license-terms-el-gr.md)
-## [Hindi](software-license-terms-hi-in.md)
-## [Ungherese](software-license-terms-hu-hu.md)
-## [Indonesiano](software-license-terms-id-id.md)
-## [Italiano](software-license-terms-it-it.md)
-## [Giapponese](software-license-terms-ja-jp.md)
-## [Kazaco](software-license-terms-kk-kz.md)
-## [Coreano](software-license-terms-ko-kr.md)
-## [Lettone](software-license-terms-lv-lv.md)
-## [Lituano](software-license-terms-lt-lt.md)
-## [Malese](software-license-terms-ms-my.md)
-## [Norvegese](software-license-terms-nb-no.md)
-## [Polacco](software-license-terms-pl-pl.md)
-## [Portoghese - Brasile](software-license-terms-pt-br.md)
-## [Portoghese - Portogallo](software-license-terms-pt-pt.md)
-## [Rumeno](software-license-terms-ro-ro.md)
-## [Russo](software-license-terms-ru-ru.md)
-## [Serbo - Cirillico](software-license-terms-cy-sr-sp.md)
-## [Serbo - Latino](software-license-terms-lt-sr-sp.md)
-## [Slovacco](software-license-terms-sk-sk.md)
-## [Sloveno](software-license-terms-sl-si.md)
-## [Spagnolo](software-license-terms-es-es.md)
-## [Svedese](software-license-terms-sv-se.md)
-## [Tailandese](software-license-terms-th-th.md)
-## [Turco](software-license-terms-tr-tr.md)
-## [Ucraino](software-license-terms-uk-ua.md)
-## [Valenziano](software-license-terms-val.md)
-## [Vietnamita](software-license-terms-vi-vn.md)
--->
+# [Codice di condotta Learn TV](/legal/learntv/codeofconduct)
+# [Termini di condivisione dei dati Learn](/legal/learn/reporting/terms)
+
+<!--## [Basque](software-license-terms-eu-es.md) -->
+<!--## [Bulgarian](software-license-terms-bg-bg.md) -->
+<!--## [Catalan ](software-license-terms-ca-es.md) -->
+<!--## [Chinese - Simplified](software-license-terms-zh-tw.md) -->
+<!--## [Chinese - Traditional](software-license-terms-zh-cn.md) -->
+<!--## [Croatian](software-license-terms-hr-hr.md) -->
+<!--## [Czech](software-license-terms-cs-cz.md) -->
+<!--## [Danish](software-license-terms-da-dk.md) -->
+<!--## [Dutch](software-license-terms-nl-nl.md) -->
+<!--## [Estonian](software-license-terms-et-ee.md) -->
+<!--## [Finnish](software-license-terms-fi-fi.md) -->
+<!--## [French](software-license-terms-fr-fr.md) -->
+<!--## [Galician](software-license-terms-gl-es.md) -->
+<!--## [German](software-license-terms-de-de.md) -->
+<!--## [Greek](software-license-terms-el-gr.md) -->
+<!--## [Hindi](software-license-terms-hi-in.md) -->
+<!--## [Hungarian](software-license-terms-hu-hu.md) -->
+<!--## [Indonesian](software-license-terms-id-id.md) -->
+<!--## [Italian](software-license-terms-it-it.md) -->
+<!--## [Japanese](software-license-terms-ja-jp.md) -->
+<!--## [Kazakh](software-license-terms-kk-kz.md) -->
+<!--## [Korean](software-license-terms-ko-kr.md) -->
+<!--## [Latvian](software-license-terms-lv-lv.md) -->
+<!--## [Lithuanian](software-license-terms-lt-lt.md) -->
+<!--## [Malay](software-license-terms-ms-my.md) -->
+<!--## [Norwegian](software-license-terms-nb-no.md) -->
+<!--## [Polish](software-license-terms-pl-pl.md) -->
+<!--## [Portuguese - Brazil](software-license-terms-pt-br.md) -->
+<!--## [Portuguese - Portugal](software-license-terms-pt-pt.md) -->
+<!--## [Romanian](software-license-terms-ro-ro.md) -->
+<!--## [Russian](software-license-terms-ru-ru.md) -->
+<!--## [Serbian - Cyrillic](software-license-terms-cy-sr-sp.md) -->
+<!--## [Serbian - Latin](software-license-terms-lt-sr-sp.md) -->
+<!--## [Slovak](software-license-terms-sk-sk.md) -->
+<!--## [Slovenian](software-license-terms-sl-si.md) -->
+<!--## [Spanish](software-license-terms-es-es.md) -->
+<!--## [Swedish](software-license-terms-sv-se.md) -->
+<!--## [Thai](software-license-terms-th-th.md) -->
+<!--## [Turkish](software-license-terms-tr-tr.md) -->
+<!--## [Ukrainian](software-license-terms-uk-ua.md) -->
+<!--## [Valencian](software-license-terms-val.md) -->
+<!--## [Vietnamese](software-license-terms-vi-vn.md) -->
