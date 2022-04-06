@@ -6,19 +6,19 @@ ms.author: jken
 ms.prod: legal
 ms.topic: article
 ms.date: 11/25/2020
-ms.openlocfilehash: ca61babedc9df58569c63db0607711eda4a121d95a762575efe64018e97d7a0d
-ms.sourcegitcommit: 0584fd7cc06107cd26400dda9605dded5878c786
+ms.openlocfilehash: fb025dc184b95fd2e4ab9331d36fce7cd5672471
+ms.sourcegitcommit: 608034089d1ea70317f64b4562eee1614c447d8f
 ms.translationtype: HT
 ms.contentlocale: it-CH
-ms.lasthandoff: 08/06/2021
-ms.locfileid: "116417838"
+ms.lasthandoff: 04/01/2022
+ms.locfileid: "141347280"
 ---
 # <a name="microsoft-legal-resources-on-docsmicrosoftcom"></a>Risorse legali di Microsoft all’indirizzo Docs.microsoft.com
 
 I link alle risorse legali sono indicati di seguito.
 
 - [Regolamento generale sulla protezione dei dati (GDPR)](/legal/gdpr)
-- [Condizioni di licenza software](information-protection/software-license-terms.md)
+- [Condizioni di licenza del software](information-protection/software-license-terms.md)
 - [Condizioni di utilizzo](/legal/termsofuse)
 - [Codice di condotta Learn TV](/legal/learntv/codeofconduct)
 - [Termini di condivisione dei dati Learn](/legal/learn/reporting/terms)
