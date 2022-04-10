@@ -5,11 +5,11 @@ ms.topic: article
 ms.prod: legal
 layout: ContentPage
 ms.openlocfilehash: 91a5f1a3c93dbf5e50ab9842e63747fc9e443fe3
-ms.sourcegitcommit: 92176e791cecbf38ca4118125466148737f3e45f
+ms.sourcegitcommit: 608034089d1ea70317f64b4562eee1614c447d8f
 ms.translationtype: HT
 ms.contentlocale: it-CH
-ms.lasthandoff: 09/29/2021
-ms.locfileid: "129189151"
+ms.lasthandoff: 04/01/2022
+ms.locfileid: "141347341"
 ---
 # <a name="microsofts-gdpr-commitments-to-customers-of-our-generally-available-enterprise-software-products"></a>Impegni di Microsoft relativi al GDPR nei confronti dei Clienti che utilizzano prodotti software aziendali Microsoft disponibili a livello generale
 
