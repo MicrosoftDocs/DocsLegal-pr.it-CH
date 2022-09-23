@@ -1,31 +1,31 @@
 ---
 title: Condizioni di utilizzo
-description: Condizioni di utilizzo per la documentazione su docs.microsoft.com.
+description: Condizioni per l'utilizzo della documentazione su learn.microsoft.com.
 keywords: ''
 author: ''
 manager: ''
-ms.date: 09/19/2018
+ms.date: 09/17/2022
 ms.topic: article
 ms.prod: legal
 ms.technology: ''
 ms.assetid: 674fcfe7-14bb-4fe1-8a25-cbe6eca5dcd1
 layout: ContentPage
-ms.openlocfilehash: 904b079bf9580699105e1f73836cb8f1127c101f
-ms.sourcegitcommit: 608034089d1ea70317f64b4562eee1614c447d8f
+ms.openlocfilehash: 626e266caf6ba6b46149899bd8d6a78bb42302f2
+ms.sourcegitcommit: c60983f87856c154a8d94b208aea0d417c51b8b1
 ms.translationtype: HT
 ms.contentlocale: it-CH
-ms.lasthandoff: 04/01/2022
-ms.locfileid: "141347460"
+ms.lasthandoff: 09/17/2022
+ms.locfileid: "147949567"
 ---
-# <a name="docsmicrosoftcom---terms-of-use"></a>docs.microsoft.com - Condizioni di utilizzo
+# <a name="learnmicrosoftcom---terms-of-use"></a>learn.microsoft.com - Condizioni per l'utilizzo
 
 ## <a name="acceptance-of-terms"></a>Accettazione delle condizioni
 
-Le seguenti Condizioni di utilizzo si applicano all’uso del sito Web Microsoft Docs ([https://docs.microsoft.com](https://docs.microsoft.com)), di Profilo tecnico ([https://techprofile.microsoft.com](https://techprofile.microsoft.com)) e di qualsiasi servizio associato. Microsoft si riserva il diritto di aggiornare le Condizioni di utilizzo in qualsiasi momento e senza alcun preavviso all’utente. La versione più aggiornata delle Condizioni di utilizzo può essere consultata facendo clic sul collegamento ipertestuale “Condizioni di utilizzo” in fondo alle pagine Web Microsoft.
+Le seguenti Condizioni per l'utilizzo si applicano all'utilizzo del sito Web Microsoft Learn ([https://learn.microsoft.com](https://learn.microsoft.com)), al Profilo tecnico e a tutti i servizi correlati. Microsoft si riserva il diritto di aggiornare le Condizioni di utilizzo in qualsiasi momento e senza alcun preavviso all’utente. La versione più aggiornata delle Condizioni di utilizzo può essere consultata facendo clic sul collegamento ipertestuale “Condizioni di utilizzo” in fondo alle pagine Web Microsoft.
 
 ## <a name="description-of-service"></a>Descrizione del servizio
 
-Attraverso il sito Web Microsoft Docs, il profilo tecnico e i servizi associati, Microsoft fornisce all’Utente l’accesso a numerose risorse, tra cui tutorial interattivi di apprendimento, documentazione, video, strumenti per sviluppatori, aree di download, forum di comunicazione e informazioni sui prodotti (collettivamente i “Servizi”). I Servizi, compresi gli eventuali aggiornamenti, miglioramenti, nuove funzionalità e/o aggiunta di nuove proprietà Web, sono soggetti alle Condizioni di utilizzo.
+Attraverso il sito Web Microsoft Learn, il profilo tecnico e i servizi associati, Microsoft fornisce all’Utente l’accesso a numerose risorse, tra cui tutorial interattivi di training, documentazione, video, strumenti per sviluppatori, aree di download, forum di comunicazione e informazioni sui prodotti (collettivamente i “Servizi”). I Servizi, compresi gli eventuali aggiornamenti, miglioramenti, nuove funzionalità e/o aggiunta di nuove proprietà Web, sono soggetti alle Condizioni di utilizzo.
 
 ## <a name="personal-and-non-commercial-use-limitation"></a>Limitazione relativa all’utilizzo personale e non commerciale
 
@@ -35,7 +35,7 @@ Salvo quanto diversamente specificato, i Servizi potranno essere utilizzati escl
 
 Microsoft protegge la privacy dell'Utente. L’Utente dovrà leggere l’[Informativa sulla Privacy di Microsoft](https://privacy.microsoft.com/privacystatement) (l’“Informativa sulla Privacy”) poiché descrive i tipi di dati che Microsoft raccoglie tramite l’Utente e il dispositivo, la modalità di utilizzo di tali dati e le basi legali per il loro trattamento. L’Informativa sulla privacy descrive inoltre in che modo Microsoft utilizza i Materiali prodotti (come definiti nel presente documento), i commenti, le valutazioni o le recensioni dei Servizi, comunicazioni, file, foto, documenti, audio, opere digitali, stream live, video e qualsiasi altro contenuto caricato, archiviato, trasmesso o condiviso attraverso i Servizi, (collettivamente, “il Contenuto dell’Utente”). Nel caso in cui il trattamento sia basato sul consenso e nella misura massima consentita dalla legge, accettando le presenti Condizioni, l’Utente acconsente alla raccolta, al trattamento e alla divulgazione, da parte di Microsoft, dei dati e del Contenuto dell’Utente, secondo le modalità descritte nell’Informativa sulla privacy. In alcuni casi, Microsoft fornirà una comunicazione specifica e richiederà il consenso dell’Utente, come indicato nell’Informativa sulla privacy.
 
-**Informazioni e contenuto dell’Utente pubblici**: Le informazioni dell’Utente fornite (compresi nome utente, nome visualizzato, immagine avatar, biografia, qualifica e organizzazione e i risultati dell’Utente) possono essere visualizzate da altri. È necessario fornire solo un nome utente e un nome visualizzato per utilizzare il profilo tecnico. Tutti gli altri campi sono facoltativi. È possibile aggiornare il nome utente e il nome visualizzato in qualsiasi momento. Microsoft può anche raccogliere e visualizzare pubblicamente la data in cui l’Utente ha eseguito la registrazione del profilo tecnico e l’affiliazione con Microsoft.
+**Informazioni e contenuti pubblici dell'Utente**: le informazioni dell’Utente fornite (compresi nome utente, nome visualizzato, immagine avatar, biografia, qualifica e organizzazione e i risultati dell’Utente) possono essere visualizzate da altri. È necessario fornire solo un nome utente e un nome visualizzato per utilizzare il profilo tecnico. Tutti gli altri campi sono facoltativi. È possibile aggiornare il nome utente e il nome visualizzato in qualsiasi momento. Microsoft può anche raccogliere e visualizzare pubblicamente la data in cui l’Utente ha eseguito la registrazione del profilo tecnico e l’affiliazione con Microsoft.
 
 Qualsiasi Contenuto postato pubblicamente può anche essere visto da altri. È possibile eliminare alcuni tipi di Contenuti dopo che sono stati pubblicati, ma non tutti i tipi di Contenuto possono essere eliminati dopo che sono stati postati pubblicamente.
 
@@ -72,15 +72,15 @@ Potrebbe essere necessario un account Microsoft, un account Active Directory Azu
 
 **Account Microsoft**. L’account Microsoft consente all’Utente di accedere a prodotti, siti Web e servizi forniti da Microsoft e da alcuni partner Microsoft. L’Utente può creare un account Microsoft registrandosi [online](https://signup.live.com/). Gli account Microsoft sono soggetti al [Contratto di Servizi Microsoft](https://www.microsoft.com/servicesagreement/).
 
-**Account Active Directory Azure**. L’Utente potrebbe avere un account con Microsoft attraverso un’organizzazione a cui appartiene. Per ulteriori informazioni sull’account, l’Utente potrà contattare l’amministratore della propria organizzazione.
+**Account Azure Active Directory**. L’Utente potrebbe avere un account con Microsoft attraverso un’organizzazione a cui appartiene. Per ulteriori informazioni sull’account, l’Utente potrà contattare l’amministratore della propria organizzazione.
 
-**Account del Profilo tecnico**. L’account del Profilo tecnico consente di accedere al sito Web di Microsoft Docs e di utilizzare i servizi associati, incluso l’accesso gratuito alle risorse di apprendimento, lo sblocco degli obiettivi, la valutazione, il commento, la pubblicazione dei contenuti e l’utilizzo di altri servizi interattivi. L’Utente può creare un account Profilo tecnico creando un nome utente in [Profilo tecnico](https://techprofile.microsoft.com/) dopo l’accesso con un account Microsoft o un account Active Directory Azure.
+**Account del Profilo tecnico**. L’account del Profilo tecnico consente di accedere al sito Web di Microsoft Learn e di utilizzare i servizi associati, incluso l’accesso gratuito alle risorse di training, lo sblocco degli obiettivi, la valutazione, il commento, la pubblicazione dei contenuti e l’utilizzo di altri servizi interattivi. L’Utente può creare un account Profilo tecnico creando un nome utente in Profilo tecnico dopo l’accesso con un account Microsoft o un account Active Directory Azure.
 
 L’Utente accetta di non utilizzare informazioni false, non accurate o ingannevoli al momento della registrazione all’account Profilo tecnico. L’Utente è interamente responsabile di mantenere la riservatezza della password e dell’account. Inoltre, l’Utente è interamente responsabile di tutte le attività svolte con il proprio account. L’Utente accetta di comunicare immediatamente a Microsoft qualsivoglia utilizzo non autorizzato del proprio account o eventuali altre violazioni della sicurezza. Microsoft non risponderà di eventuali perdite derivanti dall’utilizzo della password o dell’account dell’Utente da parte di terzi, anche qualora questo avvenga all’insaputa dell’Utente stesso. Tuttavia, l’Utente potrebbe essere ritenuto responsabile delle perdite subite da Microsoft o da un’altra parte in seguito all’utilizzo della password o dell’account dell’Utente da parte di terzi. L’Utente non potrà mai utilizzare un account di terzi senza l’autorizzazione del titolare.
 
 Qualora l’Utente crei un account Profilo tecnico per conto di una persona giuridica, ad esempio la propria azienda o il proprio datore di lavoro, dichiara di avere l’autorità legale per vincolare tale persona giuridica alle presenti Condizioni. L’Utente non potrà trasferire il proprio account Profilo tecnico a un altro Utente o a un’altra persona giuridica. Per proteggere il proprio account, l’Utente dovrà mantenere riservati i dettagli relativi al proprio account. L’Utente è responsabile di tutte le attività che svolge con il proprio account Profilo tecnico.
 
-L’Utente potrà chiudere l’account del Profilo tecnico accedendo alle [Impostazioni dell’account Profilo tecnico qui](https://techprofile.microsoft.com/edit/).
+L'Utente potrà chiudere l'account del proprio Profilo tecnico accedendo alle Impostazioni dell’account Profilo tecnico.
 
 ## <a name="no-unlawful-or-prohibited-use"></a>Divieto di utilizzo illecito o non consentito
 
