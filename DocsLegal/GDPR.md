@@ -1,23 +1,23 @@
 ---
-title: Regolamento generale sulla protezione dei dati (GDPR)
-description: GDPR docs.microsoft.com.
+title: Regolamento Generale sulla Protezione dei Dati (GDPR)
+description: GDPR su learn.microsoft.com.
 ms.topic: article
 ms.prod: legal
 layout: ContentPage
-ms.openlocfilehash: 91a5f1a3c93dbf5e50ab9842e63747fc9e443fe3
-ms.sourcegitcommit: 608034089d1ea70317f64b4562eee1614c447d8f
+ms.openlocfilehash: 1fd23b342c8822a527df59cf1785eb7cb1d0d9a4
+ms.sourcegitcommit: 4992204ccdcaf82cb72bf4aafe4526dbbaff2564
 ms.translationtype: HT
 ms.contentlocale: it-CH
-ms.lasthandoff: 04/01/2022
-ms.locfileid: "141347341"
+ms.lasthandoff: 09/27/2022
+ms.locfileid: "147979457"
 ---
 # <a name="microsofts-gdpr-commitments-to-customers-of-our-generally-available-enterprise-software-products"></a>Impegni di Microsoft relativi al GDPR nei confronti dei Clienti che utilizzano prodotti software aziendali Microsoft disponibili a livello generale
 
 **Introduzione**
 
-Il Regolamento generale sulla protezione dei dati (GDPR) dell’Unione europea stabilisce un importante standard a livello globale per i diritti alla privacy, la sicurezza delle informazioni e la conformità. In Microsoft, la privacy è considerata un diritto fondamentale e il GDPR costituisce un passo importante verso la protezione e l’applicazione dei diritti alla privacy delle persone.     
+Il Regolamento generale sulla protezione dei dati (GDPR) dell'Unione europea stabilisce un importante standard a livello globale per i diritti alla privacy, la sicurezza delle informazioni e la conformità. In Microsoft, la privacy è considerata un diritto fondamentale e il GDPR costituisce un passo importante verso la protezione e l’applicazione dei diritti alla privacy delle persone.     
 
-Microsoft si impegna ad aderire al GDPR, nonché a offrire una varietà di prodotti, funzionalità, documenti e risorse per assistere i suoi clienti a rispettare gli obblighi di conformità imposti dal GDPR. Segue una descrizione degli impegni contrattuali di Microsoft verso i propri clienti riguardo ai dati personali raccolti dai software aziendali. (Per quanto riguarda il software concesso in licenza dai programmi Microsoft Commercial Licensing, fare riferimento direttamente all’Addendum relativo alla Protezione dei Dati Personali (DPA) all'indirizzo http://aka.ms/dpa)
+Microsoft si impegna ad aderire al GDPR, nonché a offrire una varietà di prodotti, funzionalità, documenti e risorse per assistere i suoi clienti a rispettare gli obblighi di conformità imposti dal GDPR. Segue una descrizione degli impegni contrattuali di Microsoft verso i propri clienti riguardo ai dati personali raccolti dai software aziendali (per quanto riguarda il software concesso in licenza dai programmi Microsoft Commercial Licensing, fare riferimento direttamente all'Addendum relativo alla Protezione dei Dati Personali (DPA) all'indirizzo http://aka.ms/dpa) ).
 
 **Per quanto riguarda il GDPR, Microsoft si impegna nei confronti dei propri clienti?**
 
@@ -25,7 +25,7 @@ Sì. Il GDPR richiede che i titolari del trattamento (come le organizzazioni e g
 
 **Dove si trovano gli impegni contrattuali di Microsoft in materia di GDPR?**
 
-Gli impegni contrattuali assunti da Microsoft riguardo al GDPR (Condizioni GDPR) si trovano nell'allegato del DPA intitolato "Condizioni del Regolamento Generale sulla Protezione dei Dati dell’Unione Europea". Ai sensi di tali condizioni, Microsoft si impegna a rispettare le richieste dei responsabili del trattamento previste dall’Articolo 28 e da altri articoli del GDPR. 
+Gli impegni contrattuali assunti da Microsoft riguardo al GDPR (Condizioni GDPR) si trovano nell'allegato del DPA intitolato "Condizioni del Regolamento generale sulla protezione dei dati dell'Unione europea". Ai sensi di tali condizioni, Microsoft si impegna a rispettare le richieste dei responsabili del trattamento previste dall'Articolo 28 e da altri articoli del GDPR. 
 
 Microsoft estende le Condizioni del GDPR a tutti i clienti dei prodotti software aziendali disponibili a livello generale e concessi in licenza da Microsoft o dalle sue consociate ai sensi delle condizioni di licenza del software Microsoft, in vigore dal 25 maggio 2018, indipendentemente dalla versione applicabile del software aziendale, nella misura in cui Microsoft è un responsabile o sottoresponsabile del trattamento dei dati personali connessi al software e per tutto il tempo in cui Microsoft continua a offrire o supportare la versione. I dettagli relativi all’assistenza si trovano nei Criteri relativi al ciclo di vita Microsoft all’indirizzo https://support.microsoft.com/lifecycle.
 
