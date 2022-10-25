@@ -10,12 +10,12 @@ ms.prod: legal
 ms.technology: ''
 ms.assetid: 674fcfe7-14bb-4fe1-8a25-cbe6eca5dcd1
 layout: ContentPage
-ms.openlocfilehash: e3775ca714120078c7b616711a00ee5ca2959b22
-ms.sourcegitcommit: 4992204ccdcaf82cb72bf4aafe4526dbbaff2564
+ms.openlocfilehash: f20755cc9856e52068eb3189dbd12ebf90e4761c
+ms.sourcegitcommit: cf1db1b6138ad34406183a2735eab11b3293b130
 ms.translationtype: HT
 ms.contentlocale: it-CH
-ms.lasthandoff: 09/27/2022
-ms.locfileid: "147979729"
+ms.lasthandoff: 10/21/2022
+ms.locfileid: "148103200"
 ---
 # <a name="learnmicrosoftcom---terms-of-use"></a>learn.microsoft.com - Condizioni per l'utilizzo
 
@@ -70,7 +70,7 @@ IN NESSUN CASO MICROSOFT E/O I RELATIVI FORNITORI SARANNO RESPONSABILI PER DANNI
 
 Potrebbe essere necessario un account Microsoft, un account Active Directory Azure o un account Profilo tecnico per accedere ad alcuni dei Servizi.
 
-**Account Microsoft**. L’account Microsoft consente all’Utente di accedere a prodotti, siti Web e servizi forniti da Microsoft e da alcuni partner Microsoft. L’Utente può creare un account Microsoft registrandosi [online](https://signup.live.com/). Gli account Microsoft sono soggetti al [Contratto di Servizi Microsoft](https://www.microsoft.com/servicesagreement/).
+**Account Microsoft**. L’account Microsoft consente all’Utente di accedere a prodotti, siti Web e servizi forniti da Microsoft e da alcuni partner Microsoft. L'Utente può [creare un account Microsoft registrandosi online](https://signup.live.com/). Gli account Microsoft sono soggetti al [Contratto di Servizi Microsoft](https://www.microsoft.com/servicesagreement/).
 
 **Account Azure Active Directory**. L’Utente potrebbe avere un account con Microsoft attraverso un’organizzazione a cui appartiene. Per ulteriori informazioni sull’account, l’Utente potrà contattare l’amministratore della propria organizzazione.
 
