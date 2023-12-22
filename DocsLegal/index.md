@@ -4,13 +4,13 @@ description: 'Informazioni relative alle condizioni di utilizzo di Microsoft, il
 author: GrantMeStrength
 ms.author: jken
 ms.prod: legal
-ms.topic: article
+ms.topic: legal
 ms.date: 11/25/2020
 ---
 
 
 
-# <a name="microsoft-legal-resources-on-learnmicrosoftcom"></a>Risorse legali di Microsoft all'indirizzo learn.microsoft.com
+# Risorse legali di Microsoft all'indirizzo learn.microsoft.com
 
 I link alle risorse legali sono indicati di seguito.
 
