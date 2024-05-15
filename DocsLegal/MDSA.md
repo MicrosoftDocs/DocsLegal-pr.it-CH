@@ -1,15 +1,13 @@
 ---
-# required metadata
 title: Contratto Microsoft per gli sviluppatori
 description: Contratto Microsoft per gli sviluppatori learn.microsoft.com
 author: gregtouchton
 ms.service: active-directory
-ms.topic: article
 ms.date: 06/15/2018
 ms.author: grtoucht
 layout: ContentPage
 ---
-# <a name="microsoft-developer-agreement"></a>Contratto Microsoft per gli sviluppatori
+# Contratto Microsoft per gli sviluppatori
 
 ---
 Ultimo aggiornamento: giugno 2018
@@ -19,7 +17,7 @@ Il presente contratto, stipulato tra l'Utente e Microsoft Corporation ("**Micros
 Qualora l’Utente stipuli il presente Contratto per conto di una persona giuridica, ad esempio il proprio datore di lavoro, dichiara di avere l’autorità legale per vincolare tale persona giuridica.
 Nel caso in cui l'Utente specifichi il nome di una società in relazione alla registrazione o all'ordine di un Servizio, sarà ritenuto avere effettuato tale ordine e stipulato il presente Contratto per conto di tale organizzazione o società. I termini chiave sono definiti nella Sezione 10.
 
-## <a name="1-offerings"></a>1. Offerte
+## 1. Offerte
 
 1. **API.** L'accesso e l'utilizzo delle API Microsoft da parte dell'Utente sono regolati da determinate condizioni. In qualità di sviluppatore, l'Utente è responsabile della propria applicazione e della conformità a tutte le leggi e le normative applicabili all'uso delle API Microsoft, incluse le leggi e le normative in materia di privacy, i dati biometrici, la protezione dei dati e la riservatezza delle comunicazioni. Nessuna disposizione dei contratti di regolamentazione di Microsoft o del presente Contratto potrà essere interpretata come istituire tra l'Utente e Microsoft un rapporto di corresponsabilità o subappalto.
 
@@ -33,7 +31,7 @@ Nel caso in cui l'Utente specifichi il nome di una società in relazione alla re
 
 2. **Servizi.**
 
-    1. **Diritto d'uso.**   Microsoft può concedere all'Utente il diritto di accedere e usare i Servizi in conformità con il presente Contratto.
+    1. **Diritto d'uso.**  Microsoft può concedere all'Utente il diritto di accedere e usare i Servizi in conformità con il presente Contratto.
 
     2. **Modalità d'uso.** L'Utente non può:
 
@@ -69,7 +67,7 @@ Nel caso in cui l'Utente specifichi il nome di una società in relazione alla re
 4. **Funzionalità di anteprima.** Microsoft potrebbe rendere disponibili funzionalità in anteprima.
     Le anteprime sono fornite "nello stato in cui si trovano" e sono escluse dalle garanzie di cui alla Sezione 6 di seguito. Le anteprime possono essere soggette a impegni di sicurezza, conformità, privacy, disponibilità, affidabilità e supporto ridotti o diversi, come ulteriormente illustrato nell'Informativa sulla privacy e in eventuali comunicazioni aggiuntive fornite con l'Anteprima. Microsoft può modificare o interrompere le Anteprime in qualsiasi momento senza preavviso. Microsoft può anche scegliere di non rilasciare un'anteprima in "disponibilità generale" e, nel caso in cui renda un'anteprima "disponibile al pubblico", potrà addebitare tali funzionalità.
 
-## <a name="2-software-and-microsoft-content"></a>2. Software e contenuti Microsoft
+## 2. Software e contenuti Microsoft
 
 1. **Uso di software Microsoft e contenuti Microsoft al di fuori del Servizio.**
     Microsoft potrà fornire all'Utente software Microsoft o contenuti Microsoft tramite, o come parte dei Servizi. La risoluzione o la sospensione del presente Contratto, così come dell'uso o dell'accesso ai Servizi da parte dell'Utente, pone fine al diritto di quest'ultimo di possedere o usare tali software o contenuti Microsoft, a meno che non siano stati concessi all'Utente con una licenza separata. La sospensione o la risoluzione di un piano per l'Utente pone fine al diritto dell'Utente di possedere o usare software Microsoft o contenuti Microsoft associati o subordinati a tale piano. L'Utente dovrà eliminare tutte le copie di tali software Microsoft o contenuti Microsoft concessi in licenza ai sensi del presente Contratto e distruggere ogni supporto associato allo scadere dei diritti di utilizzo o di possesso associati. La presente sottosezione non si applica ai Software Microsoft trattati nella sottosezione (b) di seguito.
@@ -84,7 +82,7 @@ Nel caso in cui l'Utente specifichi il nome di una società in relazione alla re
 
 6. **Uso in aula.** Gli istituti didattici accreditati, ad esempio gli istituti di istruzione primaria e secondaria, le università e i college pubblici o privati, possono scaricare e riprodurre contenuti Microsoft per la distribuzione in aula a scopo didattico.
 
-## <a name="3-security-and-privacy"></a>3. Sicurezza e privacy
+## 3. Sicurezza e privacy
 
 1. **Sicurezza.** Microsoft applica misure tecniche e organizzative, controlli interni e routine di sicurezza dei dati destinati a proteggere i Dati utente da perdite o modifiche accidentali, divulgazione o accesso non autorizzati o distruzione illecita.
 
@@ -108,7 +106,7 @@ Nel caso in cui l'Utente specifichi il nome di una società in relazione alla re
 
 5. **Monitoraggio; revisione contabile.** Microsoft può monitorare l'accesso ai Servizi (inclusi prodotti e servizi applicabili, sito Web, contenuti e dati) e il loro uso, allo scopo di monitorare la conformità dell'Utente al presente contratto. Inoltre, l'accesso e l'uso dei Servizi da parte dell'Utente e per i cinque anni successivi dovrà, previo ragionevole preavviso di Microsoft, consentire a Microsoft o al suo revisore, a spese di Microsoft, di condurre controlli sull'uso dei Servizi da parte dell'Utente, per verificare la conformità dell'Utente al presente Contratto. L'Utente dovrà concedere a Microsoft un accesso ragionevole a tutto il personale, i locali, le informazioni, i sistemi, i libri e i registri relativi all'uso dei Servizi per consentire a Microsoft di condurre il controllo. Se richiesto, sarà necessario fornirci la prova della conformità al presente Contratto.
 
-## <a name="4-customer-accounts-customer-conduct-and-feedback"></a>4. Account dei clienti, comportamento dei clienti e feedback
+## 4. Account dei clienti, comportamento dei clienti e feedback
 
 1. **Creazione di un account.** Qualora uno dei Servizi richieda all'Utente l'apertura di un account, l'Utente dovrà completare il processo di registrazione, inserendo informazioni aggiornate, complete e accurate. Non è possibile selezionare un nome Utente o un identificatore dell'account che impersoni qualcun altro, sia o possa essere illegale, o possa essere protetto da marchi o altri diritti di proprietà, sia volgare oppure offensivo o possa causare confusione. Ci riserviamo il diritto di rifiutare e/o riassegnare questi nomi Utente e identificatori del Servizio a nostra esclusiva discrezione.
 
@@ -118,7 +116,7 @@ Nel caso in cui l'Utente specifichi il nome di una società in relazione alla re
 
 4. **Contributi e feedback.** Non rivendichiamo la proprietà di alcun contributo, se non diversamente concordato dalle parti. Tuttavia, fornendo un contributo, l'Utente concede irrevocabilmente a Microsoft e alle sue consociate il diritto di effettuare, usare, modificare, distribuire e commercializzare in altra maniera il Contributo in qualsiasi modo e per qualsiasi scopo (inclusa la concessione al pubblico generale del diritto di usare i contributi in conformità al presente Contratto, che può cambiare nel tempo). Per i Contributi forniti sui Portali della documentazione, l'Utente concede inoltre il diritto di pubblicare specifiche informazioni identificative dettagliate nell'Informativa sulla privacy in relazione ai Contributi stessi. Questi diritti sono concessi in base a tutti i diritti di proprietà intellettuale applicabili che l'Utente possiede o controlla. Per l'uso dei Contributi non sarà corrisposto alcun compenso. Microsoft non ha alcun obbligo di pubblicare o usare eventuali Contributi e può rimuovere tale materiale in qualsiasi momento. Fornendo un Contributo, l'Utente garantisce di possedere o altrimenti controllare tutti i diritti relativi al Contributo e che quest'ultimo non è soggetto ad alcun diritto di terzi (inclusi eventuali diritti di personalità o pubblicità di qualsiasi persona).
 
-## <a name="5-termination-and-suspension"></a>5. Risoluzione e sospensione
+## 5. Risoluzione e sospensione
 
 1. **Risoluzione da parte dell'Utente.** L'Utente può risolvere il presente Contratto in qualsiasi momento. Se ha acquistato l'accesso ai Servizi tramite Microsoft Azure, l'Utente dovrà pagare gli importi dovuti.
 
@@ -129,13 +127,13 @@ Nel caso in cui l'Utente specifichi il nome di una società in relazione alla re
 
 4. **Risoluzione per mancato utilizzo.** Microsoft può sospendere o chiudere un account del servizio dopo un periodo prolungato di inattività o per mancata risposta alle comunicazioni di Microsoft. Per i Servizi, se l'Utente dispone di un account gratuito, Microsoft potrà risolvere il presente Contratto e/o eliminare qualsiasi Dato dell'Utente generato automaticamente durante il processo di registrazione ai Servizi qualora l'Utente non carichi o crei Dati utente entro 90 giorni dalla fornitura iniziale del Servizio. L'Utente sarà informato preventivamente dell'eventuale sospensione o chiusura dell'account o della cancellazione dei Dati utente.
 
-## <a name="6-warranties"></a>6. Garanzie
+## 6. Garanzie
 
 **FATTO SALVO QUANTO GARANTITO NELLE CONDIZIONI ACCESSORIE, MICROSOFT E I SUOI RISPETTIVI FORNITORI EROGHERANNO I SERVIZI (INCLUSI I CONTENUTI E SOFTWARE MICROSOFT) SECONDO IL PRINCIPIO "AS-IS", "CON EVENTUALI DIFETTI" E "COME DISPONIBILI". IL RISCHIO CORRELATO AL LORO USO È A CARICO DELL'UTENTE. MICROSOFT NON FORNISCE GARANZIE O CONDIZIONI, ESPLICITE, IMPLICITE, LEGALI O DI ALTRO TIPO, COMPRESE EVENTUALI GARANZIE DI COMMERCIABILITÀ, IDONEITÀ PER UNO SCOPO PARTICOLARE E NON VIOLAZIONE. L'UTENTE POTREBBE GODERE DI DIRITTI AGGIUNTIVI AI SENSI DELLE LEGGI LOCALI CHE IL PRESENTE CONTRATTO NON PUÒ MODIFICARE. TALI CLAUSOLE DI RESPONSABILITÀ SI APPLICHERANNO NELLA MISURA MASSIMA CONSENTITA DALLA LEGGE APPLICABILE, INCLUSA L'APPLICAZIONE ALLE GARANZIE IMPLICITE DI COMMERCIABILITÀ, IDONEITÀ PER UNO SCOPO PARTICOLARE E NON VIOLAZIONE.**
 
 **Contenuti e materiali di terze parti. MICROSOFT NON CONTROLLA NÉ ESAMINA, RIVEDE, APPROVA O ACCETTA RESPONSABILITÀ PER CONTENUTI, INFORMAZIONI, MESSAGGI, MATERIALI, PROGETTI DI TERZE PARTI ACCESSIBILI DA, O COLLEGATI TRAMITE, I SERVIZI; INOLTRE, SALVO QUANTO GARANTITO IN UN CONTRATTO SEPARATO, NON RILASCIA ALCUNA DICHIARAZIONE O GARANZIA IN MERITO E NON SARÀ RESPONSABILE DI QUANTO SOPRA. OGNI RAPPORTO CHE L'UTENTE ABBIA CON TALI TERZE PARTI È A SUO RISCHIO.**
 
-## <a name="7-defense-of-claims"></a>7. Manleva in caso di reclami
+## 7. Manleva in caso di reclami
 
 1. **Manleva.** Microsoft manleverà l'Utente da qualsiasi rivendicazione avanzata da una terza parte non affiliata secondo cui i Servizi o software violino un suo brevetto, copyright o marchio o facciano un uso illegale di un suo segreto commerciale. L'Utente si impegna a manlevare Microsoft da qualsiasi reclamo avanzato da una terza parte non affiliata derivante da (1) uso improprio, da parte dell'Utente o dell'Utente finale dei Servizi, dei contenuti o software Microsoft; (2) violazione del presente Contratto da parte dell'Utente finale; (3) contenuti o dati trasmessi o usati con i Servizi, da coloro che agiscono per conto dell'Utente o gli utenti finali.
 
@@ -145,7 +143,7 @@ Nel caso in cui l'Utente specifichi il nome di una società in relazione alla re
 
 4. **Obblighi.** Ciascuna parte dovrà notificare tempestivamente all'altra eventuali reclami ai sensi della presente Sezione 7. La parte che richieda di essere tutelata dovrà (1) dare all'altra il controllo esclusivo sulla difesa e sulla risoluzione del reclamo; e (2) garantire un supporto ragionevole nella difesa del reclamo. La parte che fornisca la protezione (1) rimborserà all'altra le ragionevoli spese vive sostenute per fornire tale aiuto e (2) pagherà l'importo di qualsiasi sentenza finale avversa risultante (o accordo finale cui l'altra acconsenta). I rispettivi diritti delle parti alla difesa e al pagamento di sentenze o accordi ai sensi della presente Sezione 7 sostituiscono qualsiasi diritto di indennizzo di diritto comune o legale o diritti analoghi; inoltre, ciascuna parte rinuncia a tali diritti di common law.
 
-## <a name="8-limitation-of-liability"></a>8. Limitazione di responsabilità
+## 8. Limitazione di Responsabilità
 
 1. **Limitazione.** La responsabilità complessiva di ciascuna parte ai sensi del presente Contratto è limitata ai danni diretti fino all'importo pagato ai sensi del presente Contratto per i servizi per gli sviluppatori che hanno dato origine a tale responsabilità nei 12 mesi precedenti l'insorgere della stessa o, per i servizi forniti gratuitamente, cinquecento dollari statunitensi (\$500,00 USD).
 
@@ -153,7 +151,7 @@ Nel caso in cui l'Utente specifichi il nome di una società in relazione alla re
 
 3. **Eccezioni alle limitazioni.** I limiti di responsabilità di cui alla presente Sezione 8 si applicano nella misura massima consentita dalla legge applicabile, ad eccezione di quanto segue: (1) obblighi delle parti ai sensi della Sezione 7; o (2) violazione delle Sezioni 3.2 - 3.4 o dei diritti di proprietà intellettuale dell'altra parte.
 
-## <a name="9-miscellaneous"></a>9. Varie ed eventuali
+## 9. Varie
 
 1. **Riserva di diritti.** Tutti i diritti non espressamente concessi nel presente documento sono riservati da Microsoft. L'Utente riconosce che tutti i diritti di proprietà intellettuale all'interno dei Servizi rimangono di proprietà di Microsoft e che nessuna disposizione del presente Contratto potrà trasferire tali diritti di proprietà intellettuale all'Utente.
 
@@ -176,7 +174,7 @@ Nel caso in cui l'Utente specifichi il nome di una società in relazione alla re
 
 9. **Intero accordo.** Il presente contratto costituisce l'intero accordo relativo al suo oggetto e sostituisce qualsiasi comunicazione precedente o simultanea.
 
-10. **Estensione della Validità Temporale di Alcune Disposizioni.** 1.2, 2.3-2.6, 3.2, 3.5, 4.2, 4.4, 5, 6, 7, 8, 9 e 10 e tutte le altre definizioni.
+10. **Estensione della validità temporale di alcune disposizioni.** 1.2, 2.3-2.6, 3.2, 3.5, 4.2, 4.4, 5, 6, 7, 8, 9 e 10 e tutte le altre definizioni.
 
 11. **Giurisdizione statunitense in materia di esportazioni.** I Servizi sono soggetti alla giurisdizione statunitense in materia di esportazioni. L'Utente è tenuto a rispettare tutte le leggi applicabili, incluse le U.S. Export Administration Regulations (norme statunitensi sull'amministrazione delle esportazioni), le International Traffic in Arms Regulations (norme statunitensi sul traffico internazionale di armi) e le restrizioni relative all'Utente finale, all'uso finale e alla destinazione emesse dal governo degli Stati Uniti e da altri governi. Per altre informazioni, vedere [Esportazione di prodotti Microsoft](https://go.microsoft.com/fwlink/?linkid=306744).
 
@@ -186,7 +184,7 @@ Nel caso in cui l'Utente specifichi il nome di una società in relazione alla re
 
 14. **Modifiche.** Microsoft potrà modificare il presente contratto in qualsiasi momento, con o senza preavviso individuale all'Utente, pubblicando una versione rivista nella sezione relativa alle informazioni legali dei Portali della documentazione e dei Servizi per gli sviluppatori (o in un sito alternativo da essa identificato) o informando l'Utente in conformità con la Sezione 9.b. Eventuali modifiche decorreranno dal momento della notifica all'Utente o della pubblicazione. **L'uso dei Servizi dopo l'entrata in vigore delle modifiche implica l'accettazione delle modifiche al Contratto. Nel caso in cui non accetti il nuovo contratto, l'Utente dovrà interrompere l'uso dei Servizi.**
 
-## <a name="10-definitions"></a>10. Definizioni
+## 10. Definizioni
 
 Per "**contenuti**" si intendono documenti, fotografie, video, dati e altri contenuti grafici, testuali o audiovisivi.
 
