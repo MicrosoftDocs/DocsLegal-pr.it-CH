@@ -4,7 +4,7 @@ description: Condizioni per l'utilizzo della documentazione su learn.microsoft.c
 keywords: null
 author: null
 manager: null
-ms.date: 09/17/2022
+ms.date: 06/13/2024
 ms.service: learn
 ms.assetid: 674fcfe7-14bb-4fe1-8a25-cbe6eca5dcd1
 layout: ContentPage
@@ -13,21 +13,21 @@ layout: ContentPage
 
 ## Accettazione delle condizioni
 
-Le seguenti Condizioni per l'utilizzo si applicano all'utilizzo del sito Web Microsoft Learn ([https://learn.microsoft.com](https://learn.microsoft.com)), al Profilo tecnico e a tutti i servizi correlati. Microsoft si riserva il diritto di aggiornare le Condizioni per l'utilizzo in qualsiasi momento e senza alcun preavviso all'utente. La versione più aggiornata delle Condizioni per l'utilizzo può essere consultata facendo clic sul collegamento ipertestuale "Condizioni per l'utilizzo" in fondo alle pagine Web Microsoft.
+Le seguenti Condizioni per l'utilizzo si applicano all'uso del sito Web Microsoft Learn ([https://learn.microsoft.com](https://learn.microsoft.com)), al Profilo Microsoft Learn e a tutti i servizi correlati. Microsoft si riserva il diritto di aggiornare le Condizioni per l'utilizzo in qualsiasi momento e senza alcun preavviso all'utente. La versione più aggiornata delle Condizioni per l'utilizzo può essere consultata facendo clic sul collegamento ipertestuale "Condizioni per l'utilizzo" in fondo alle pagine Web Microsoft.
 
 ## Descrizione del servizio
 
-Attraverso il sito Web Microsoft Learn, il profilo tecnico e i servizi associati, Microsoft fornisce all’Utente l’accesso a numerose risorse, tra cui tutorial interattivi di training, documentazione, video, strumenti per sviluppatori, aree di download, forum di comunicazione e informazioni sui prodotti (collettivamente i “Servizi”). I Servizi, compresi gli eventuali aggiornamenti, miglioramenti, nuove funzionalità e/o aggiunta di nuove proprietà Web, sono soggetti alle Condizioni per l'utilizzo.
+Attraverso il sito Web Microsoft Learn, Microsoft Learn e i servizi associati, Microsoft offre all'Utente l'accesso a numerose risorse, tra cui esercitazioni interattive di training, documentazione, video, strumenti per sviluppatori, aree di download, forum di comunicazione e informazioni sui prodotti (collettivamente i "Servizi"). I Servizi, compresi gli eventuali aggiornamenti, miglioramenti, nuove funzionalità e/o aggiunta di nuove proprietà Web, sono soggetti alle Condizioni per l'utilizzo.
 
 ## Limitazione relativa all'uso personale e non commerciale
 
-Salvo quanto diversamente specificato, i Servizi potranno essere usati esclusivamente a scopo personale e non commerciale. L'Utente non potrà modificare, copiare, distribuire, trasmettere, visualizzare pubblicamente, eseguire, riprodurre, pubblicare, concedere in licenza, creare opere derivate, trasferire o vendere qualsiasi informazione, software, prodotto o servizio ottenuto dai Servizi (ad eccezione dell'uso proprio, personale e non commerciale) senza il previo consenso scritto di Microsoft.
+Salvo quanto diversamente specificato, i Servizi potranno essere usati esclusivamente a scopo personale e non commerciale. L'Utente non potrà modificare, copiare, distribuire, trasmettere, visualizzare pubblicamente, eseguire, riprodurre, pubblicare, concedere in licenza, creare opere derivate, trasferire o vendere qualsiasi informazione, software, prodotto o servizio ottenuto dai Servizi (ad eccezione dell'uso proprio, personale e non commerciale) senza il previo consenso scritto di Microsoft. Per la propria sicurezza, non pubblicare informazioni sensibili, come password, date di nascita, numeri di previdenza sociale, numeri di passaporto, informazioni sulle carte di credito o dati finanziari.
 
 ## Privacy e protezione dei dati personali
 
 Microsoft protegge la privacy dell'Utente. L'Utente dovrà leggere l'[Informativa sulla Privacy di Microsoft](https://privacy.microsoft.com/privacystatement) (l'"Informativa sulla Privacy") poiché descrive i tipi di dati che Microsoft raccoglie tramite l'Utente e il dispositivo, la modalità d'uso di tali dati e le basi legali per il loro trattamento. L'Informativa sulla privacy descrive inoltre in che modo Microsoft usa i Materiali prodotti (come definiti nel presente documento), i commenti, le valutazioni o le recensioni dei Servizi, comunicazioni, file, foto, documenti, audio, opere digitali, stream live, video e qualsiasi altro contenuto caricato, archiviato, trasmesso o condiviso attraverso i Servizi, (collettivamente, "il Contenuto dell'Utente"). Nel caso in cui il trattamento sia basato sul consenso e nella misura massima consentita dalla legge, accettando le presenti Condizioni, l'Utente acconsente alla raccolta, al trattamento e alla divulgazione, da parte di Microsoft, dei dati e del Contenuto dell'Utente, secondo le modalità descritte nell'Informativa sulla privacy. In alcuni casi, Microsoft fornirà una comunicazione specifica e richiederà il consenso dell'Utente, come indicato nell'Informativa sulla privacy.
 
-**Informazioni e contenuti pubblici dell'Utente**: le informazioni dell’Utente fornite (compresi nome utente, nome visualizzato, immagine avatar, biografia, qualifica e organizzazione e i risultati dell’Utente) possono essere visualizzate da altri. È necessario fornire solo un nome utente e un nome visualizzato per usare il profilo tecnico. Tutti gli altri campi sono facoltativi. È possibile aggiornare il nome utente e il nome visualizzato in qualsiasi momento. Microsoft può anche raccogliere e visualizzare pubblicamente la data in cui l'Utente ha eseguito la registrazione del profilo tecnico e l'affiliazione con Microsoft.
+**Informazioni e contenuti pubblici dell'Utente**: le informazioni dell'Utente fornite (compresi nome utente, nome visualizzato, immagine avatar, biografia, qualifica e organizzazione, attività svolte sul sito Web di Microsoft Learn e risultati dell'Utente) possono essere visualizzate da altri. Per usare il Profilo Microsoft Learn è necessario fornire solo un nome utente e un nome visualizzato. Tutti gli altri campi sono facoltativi. È possibile aggiornare il nome utente e il nome visualizzato in qualsiasi momento. Microsoft può anche raccogliere e visualizzare pubblicamente la data in cui l'Utente ha eseguito la registrazione del Profilo Microsoft Learn e l'affiliazione con Microsoft.
 
 Qualsiasi Contenuto postato pubblicamente può anche essere visto da altri. È possibile eliminare alcuni tipi di Contenuti dopo che sono stati pubblicati, ma non tutti i tipi di Contenuto possono essere eliminati dopo che sono stati postati pubblicamente.
 
@@ -58,33 +58,156 @@ I DOCUMENTI E GLI ELEMENTI GRAFICI CORRELATI PUBBLICATI SUI SERVIZI POSSONO INCL
 
 IN NESSUN CASO MICROSOFT E/O I RELATIVI FORNITORI SARANNO RESPONSABILI PER DANNI SPECIALI, INDIRETTI O CONSEQUENZIALI, O PER DANNI DI QUALSIASI NATURA RISULTANTI DA PERDITA DEL DIRITTO D’USO, PERDITA DI INFORMAZIONI O MANCATO GUADAGNO, SIANO ESSI RISULTANTI DALL’ADEMPIMENTO DEL CONTRATTO, DA NEGLIGENZA O DA ALTRE AZIONI LESIVE, DERIVANTI DA O IN QUALSIASI MODO CONNESSI ALL’UTILIZZO O ALLE PRESTAZIONI DEI SERVIZI, SOFTWARE, DOCUMENTI OVVERO ALL’ERRATA O MANCATA FORNITURA DEI SERVIZI O DELLE INFORMAZIONI DISPONIBILI NELL’AMBITO DEI SERVIZI.
 
-## Account, password e sicurezza del profilo tecnico
+## Account, password e sicurezza del Profilo Microsoft Learn
 
-Potrebbe essere necessario un account Microsoft, un account Active Directory Azure o un account Profilo tecnico per accedere ad alcuni dei Servizi.
+Per accedere ad alcuni dei Servizi potrebbe essere necessario un account Microsoft, un account Active Directory Azure o un account Profilo Microsoft Learn.
 
 **Account Microsoft**. L'account Microsoft consente all'Utente di accedere a prodotti, siti Web e servizi forniti da Microsoft e da alcuni partner Microsoft. L'Utente può [creare un account Microsoft registrandosi online](https://signup.live.com/). Gli account Microsoft sono soggetti al [Contratto di Servizi Microsoft](https://www.microsoft.com/servicesagreement/).
 
 **Account Azure Active Directory**. L'Utente potrebbe avere un account con Microsoft attraverso un'organizzazione a cui appartiene. Per ulteriori informazioni sull'account, l'Utente potrà contattare l'amministratore della propria organizzazione.
 
-**Account del Profilo tecnico**. L’account del Profilo tecnico consente di accedere al sito Web di Microsoft Learn e di utilizzare i servizi associati, incluso l’accesso gratuito alle risorse di training, lo sblocco degli obiettivi, la valutazione, il commento, la pubblicazione dei contenuti e l’utilizzo di altri servizi interattivi. L'Utente può creare un account Profilo tecnico creando un nome utente in "Profilo tecnico" dopo aver eseguito l'accesso con un account Microsoft o un account Active Directory Azure.
+**Account Profilo Microsoft Learn**. L'account Profilo Microsoft Learn consente di accedere al sito Web di Microsoft Learn e di usare i servizi associati, incluso l'accesso gratuito alle risorse di training, lo sblocco degli obiettivi, la valutazione, l'inserimento di commenti, la pubblicazione di contenuti e l'uso di altri servizi interattivi. L'Utente può creare un account Profilo Microsoft Learn creando un nome utente in Profilo Microsoft Learn dopo aver eseguito l'accesso con un account Microsoft o un account Azure Active Directory.
 
-L'Utente accetta di non usare informazioni false, non accurate o ingannevoli al momento della registrazione all'account Profilo tecnico. L'Utente è interamente responsabile di mantenere la riservatezza della password e dell'account. Inoltre, l'Utente è interamente responsabile di tutte le attività svolte con il proprio account. L'Utente accetta di comunicare immediatamente a Microsoft qualsivoglia uso non autorizzato del proprio account o eventuali altre violazioni della sicurezza. Microsoft non risponderà di eventuali perdite derivanti dall'uso della password o dell'account dell'Utente da parte di terzi, anche qualora questo avvenga all'insaputa dell'Utente stesso. Tuttavia, l'Utente potrebbe essere ritenuto responsabile delle perdite subite da Microsoft o da un'altra parte in seguito all'uso della password o dell'account dell'Utente da parte di terzi. L'Utente non potrà mai usare un account di terzi senza l'autorizzazione del titolare.
+L'Utente accetta di non usare informazioni false, non accurate o ingannevoli al momento della registrazione dell'account Profilo Microsoft Learn. L'Utente è interamente responsabile di mantenere la riservatezza della password e dell'account. Inoltre, l'Utente è interamente responsabile di tutte le attività svolte con il proprio account. L'Utente accetta di comunicare immediatamente a Microsoft qualsivoglia uso non autorizzato del proprio account o eventuali altre violazioni della sicurezza. Microsoft non risponderà di eventuali perdite derivanti dall'uso della password o dell'account dell'Utente da parte di terzi, anche qualora questo avvenga all'insaputa dell'Utente stesso. Tuttavia, l'Utente potrebbe essere ritenuto responsabile delle perdite subite da Microsoft o da un'altra parte in seguito all'uso della password o dell'account dell'Utente da parte di terzi. L'Utente non potrà mai usare un account di terzi senza l'autorizzazione del titolare.
 
-Qualora l'Utente crei un account Profilo tecnico per conto di una persona giuridica, ad esempio la propria azienda o il proprio datore di lavoro, dichiara di avere l'autorità legale per vincolare tale persona giuridica alle presenti Condizioni. L'Utente non potrà trasferire il proprio account Profilo tecnico a un altro Utente o a un'altra persona giuridica. Per proteggere il proprio account, l'Utente dovrà mantenere riservati i dettagli relativi al proprio account. L'Utente è responsabile di tutte le attività che svolge con il proprio account Profilo tecnico.
+Qualora l'Utente crei un account Profilo Microsoft Learn per conto di una persona giuridica, ad esempio la propria azienda o il proprio datore di lavoro, dichiara di avere l'autorità legale per vincolare tale persona giuridica alle presenti Condizioni. L'Utente non potrà trasferire il proprio account Profilo Microsoft Learn a un altro Utente o a un'altra persona giuridica. Per proteggere il proprio account, l'Utente dovrà mantenere riservati i dettagli relativi al proprio account. L'Utente è responsabile di tutte le attività che svolge con il proprio account Profilo Microsoft Learn.
 
-L'Utente potrà chiudere l'account del proprio Profilo tecnico accedendo alle Impostazioni dell’account Profilo tecnico.
+L'Utente potrà chiudere l'account del proprio Profilo Microsoft Learn accedendo alle impostazioni dell'account Profilo Microsoft Learn.
 
 ## Divieto d'uso illecito o non consentito
 
 Come condizione per l'uso dei Servizi, l'Utente non si avvarrà dei Servizi per qualsivoglia scopo illecito o non consentito ai sensi delle presenti Condizioni per l'utilizzo e dalle relative comunicazioni. L'Utente non può usare i Servizi in alcun modo che possa danneggiare, disattivare, sovraccaricare o pregiudicare alcun server Microsoft o le reti connesse a server Microsoft ovvero interferire con l'uso o il godimento dei Servizi da parte di altri soggetti. L'Utente non può tentare di accedere in modo non autorizzato ai Servizi, ad altri account, a computer o reti connesse a qualsiasi server Microsoft o ad alcuno dei Servizi attraverso intrusione, furto della password o altri mezzi. L'Utente non potrà ottenere o tentare di ottenere alcun materiale o informazione attraverso qualsivoglia mezzo non intenzionalmente reso disponibile mediante i Servizi.
+
+## Politiche 
+
+Per garantire la sicurezza digitale dell'interazione tra utenti in termini di contenuti e di comportamento, i Servizi prevedono regole relative ai tipi di contenuti e di comportamento non consentiti. I contenuti vietati saranno rimossi. Qualora l'Utente pubblichi contenuti dannosi, il suo account potrà essere sospeso o rimosso dai Servizi.  
+
+### Bullismo e molestie 
+
+Non sono consentiti contenuti o comportamenti offensivi nei confronti di una persona o di un gruppo. Ciò include qualsiasi azione che: 
+
+- molesti, intimidisca o minacci altri;
+- ferisca le persone insultandole o sminuendole; 
+- persegua interazioni o contatti sgraditi, soprattutto quando questi fanno temere agli altri possibili lesioni. 
+
+### Sfruttamento e abuso sessuale di minori (Child sexual exploitation and abuse, CSEA) 
+
+Microsoft non tollera lo sfruttamento, la violenza o la minaccia di violenza verso minori sui Servizi. Per CSEA si intende qualsiasi contenuto o attività che leda o minacci di ledere un minore attraverso lo sfruttamento, il traffico, l'estorsione o la messa in pericolo. Ciò include la condivisione di media visivi con contenuti sessuali che coinvolgono o sessualizzano un minore. Il termine CSEA comprende anche l'adescamento, ovvero l'interazione inappropriata con minori tramite contatti, messaggi privati o colloqui con essi per chiedere o offrire sesso o contenuti sessuali, la condivisione di contenuti sessualmente suggestivi e la pianificazione di incontri sessuali con un minore. Per minore si intende qualsiasi individuo di età inferiore ai 18 anni o che non abbia raggiunto la maggiore età ai sensi della legge vigente. 
+
+L'account Microsoft Learn di un utente che pubblichi contenti CSEA verrà immediatamente rimosso. 
+
+### Collaborazione a fini dannosi  
+
+I Servizi non devono mai essere usati per nuocere ad altri, neanche collaborando con altri per provocare danni fisici. Non è consentito collaborare o elaborare piani specifici con altri con lo scopo comune di arrecare danni fisici a qualcuno. 
+
+### Violenza grafica e crudeltà dei contenuti  
+
+Contenuti violenti reali possono essere fonte di disturbo, offensivi o addirittura traumatici per gli utenti. 
+
+Non sono ammessi contenuti visivi che promuovano la violenza nel mondo reale o la crudeltà umana. 
+
+Ciò può includere immagini o video che mostrano: 
+
+- eventi reali di gravi lesioni fisiche o di morte di una persona o di un gruppo; 
+- abusi domestici violenti contro una o più persone reali; 
+- conseguenze o traumi fisici gravi, come danni a organi interni o tessuti, resti di persone carbonizzate, arti mozzati o decapitazione. 
+
+### Odio e discriminazione verbale  
+
+Non sono ammessi contenuti denigratori che attacchino, insultino o sviliscano un soggetto a causa di una caratteristica protetta, come la razza, l'etnia, il sesso, l'identità di genere, l'orientamento sessuale, la religione, l'origine nazionale, l'età, lo stato di disabilità o la provenienza sociale. 
+
+L'odio verbale comprende: 
+
+- la promozione di stereotipi lesivi sulle persone a causa di una caratteristica protetta; 
+- dichiarazioni disumanizzanti, come paragonare qualcuno a un animale o a altre figure non umane, a causa di una caratteristica protetta; 
+- incoraggiare o sostenere la violenza contro un individuo a causa di una caratteristica protetta; 
+- invocare la segregazione, l'esclusione o l'intimidazione di persone a causa di caratteristiche protette; 
+- simboli, loghi o altre immagini riconosciute come espressione di odio o superiorità razziale. 
+
+### Immagini intime non consensuali ed estorsione a sfondo sessuale  
+
+Non è ammessa la condivisione di immagini sessualmente intime di una persona senza il suo consenso (immagini intime non consensuali). Non è consentito distribuire immagini intime non consensuali sui servizi, né tantomeno pubblicare contenuti che elogino, sostengano o richiedano l'uso di tali immagini. 
+
+In generale, sono considerati immagini intime non consensuali video o immagini che presentano le seguenti caratteristiche: 
+
+- Sono stati realizzati privatamente, non in un contesto professionale. 
+- Mostrano attività sessuali, nudità o parti del corpo sessualizzate.  
+- La persona raffigurata nell'immagine non ha acconsentito né alla creazione né alla condivisione dell'immagine. 
+
+Inoltre, Microsoft non consente alcuna minaccia di condividere o pubblicare immagini intime non consensuali (estorsione a sfondo sessuale). Ciò include richieste o minacce per ottenere denaro, immagini o altri beni di valore per non rendere pubbliche immagini intime non consensuali.  
+
+### Offerte a sfondo sessuale  
+
+Non è consentito usare i propri prodotti e servizi per chiedere o offrire prestazioni sessuali, servizi sessuali o contenuti sessuali in cambio di denaro o di altri beni di valore. 
+
+### Suicidio e autolesionismo  
+
+Microsoft si impegna a rimuovere tutti i contenuti sul suicidio e l'autolesionismo che potrebbero essere pericolosi. Sappiamo anche che le persone possono usare i nostri servizi per parlare di salute mentale, condividere le proprie storie o partecipare a gruppi con altre persone toccate da casi di suicidio o autolesionismo. 
+
+Ciò include, a titolo meramente esclusivo: 
+
+- Supportare le modalità generali con cui è possibile porre fine alla propria vita, come ad esempio con una pistola, tramite impiccagione od overdose di farmaci. 
+- Incoraggiare qualcuno a togliersi la vita. 
+- Mostrare immagini di suicidi reali o tentati. 
+- Lodare chi è morto suicida per essersi tolto la vita. 
+
+I contenuti di autolesionismo dimostrano, inneggiano o ispirano a farsi del male fisico, anche tagliandosi, bruciandosi o incidendosi la pelle. Il termine include anche contenuti che incoraggiano o educano a disordini alimentari o a un'alimentazione sistematicamente eccessiva o insufficiente. 
+
+### Terrorismo ed estremismo violento  
+
+Non sono consentiti contenuti che inneggino o sostengano terroristi o estremisti violenti, che li aiutino nel reclutamento, che incoraggino o consentano le loro attività. Per individuare eventuali terroristi o gruppi terroristici Microsoft si basa sull'elenco consolidato del Consiglio di sicurezza delle Nazioni Unite. Gli estremisti violenti comprendono persone che abbracciano un'ideologia di violenza o di odio violento verso un altro gruppo. 
+
+Microsoft eliminerà l'account Microsoft Learn di qualsiasi utente che pubblichi contenuti relativi al terrorismo e all'estremismo violento.  
+
+### Tratta di esseri umani  
+
+Non sono ammessi contenuti che promuovano la tratta di esseri umani. La tratta si verifica quando un soggetto sfrutta altre persone a scopo di lucro personale, privandole dei loro diritti umani. 
+
+Solitamente la tratta si articola in tre parti: 
+
+- L'atto di ricercare, trasportare, trasferire, comprare o rapire persone. 
+- L'uso o la minaccia di violenza, menzogna, inganno o coercizione per svolgere queste attività. 
+- Le attività sono svolte per guadagnare denaro, uno status o qualche altro tipo di profitto. 
+
+La tratta comprende la costrizione di persone a lavorare, sposarsi, praticare attività sessuali o sottoporsi a trattamenti od operazioni mediche senza il loro consenso e non è limitata ad alcuna età o provenienza. 
+
+### Minacce violente, incitamento e inneggiamento alla violenza  
+
+Non sono ammessi contenuti che incoraggino la violenza contro altre persone attraverso minacce o incitamenti violenti. 
+
+Per minacce di violenza si intendono parole che manifestano l'intenzione specifica di provocare gravi danni fisici a qualcuno.  
+
+Per incitamento si intende del materiale che incoraggia, sollecita o può provocare gravi danni fisici a una persona o a un gruppo. 
+
+Non è inoltre consentita la glorificazione della violenza attraverso contenuti che inneggiano o sostengono atti reali di violenza con gravi danni fisici a persone o gruppi, anche se avvenuti in passato. 
+
+### Contenuti per adulti e a sfondo sessuale 
+
+Non è consentito l'uso dei Servizi per generare o condividere contenuti o materiali inappropriati (ad esempio nudità, rapporti sessuali con animali, pornografia, linguaggio offensivo, immagini violente, autolesionismo o attività criminali). 
+
+### Blasfemia e volgarità 
+
+Non sono ammesse parolacce o altri linguaggi offensivi.  
+
+### Spam 
+
+Non sono ammessi messaggi di spam o di phishing o di generazione o distribuzione di malware.  
+
+Per Posta indesiderata si intende posta indesiderata inviata in blocco, pubblicazioni, richieste di contatto, SMS (messaggi di testo), messaggi istantanei o altre comunicazioni elettroniche simili.  
+
+Il phishing consiste nell'invio di e-mail o altre comunicazioni elettroniche per indurre in modo fraudolento o illegale i destinatari a rivelare informazioni personali o sensibili per ottenere l'accesso a conti o registri, l'esfiltrazione di documenti o altre informazioni sensibili, pagamenti e/o benefici finanziari.  
+
+Il malware comprende qualsiasi attività progettata per causare danni tecnici, come la distribuzione di file eseguibili dannosi, l'organizzazione di attacchi denial of service o la gestione di server di comando e controllo. 
+
+### Diffamazione, rappresentazione, false informazioni 
+
+Non è consentito svolgere attività fraudolente, false o fuorvianti, ad esempio per estorcere denaro sotto mentite spoglie, impersonare un altro Utente, diffamare, manipolare i Servizi per incrementare il numero di giochi o manipolare le classifiche, le valutazioni o i commenti. 
 
 ## Uso dei Servizi
 
 I Servizi potranno includere servizi di posta elettronica, BBS, aree di chat, newsgroup, forum, community, pagine Web, calendari, album fotografici, schedari e/o altri servizi di messaggistica o di comunicazione progettati per consentire all'Utente di comunicare con altri utenti. L’Utente acconsente a utilizzare i Servizi esclusivamente per pubblicare, inviare e ricevere messaggi o materiale appropriato e correlato allo specifico Servizio. A titolo esemplificativo, nell'uso dei Servizi, l'Utente accetta di non:
 
 - utilizzare il Servizio in relazione a sondaggi, concorsi, schemi piramidali, catene di sant’Antonio, posta indesiderata, messaggi fuori tema o eventuali messaggi duplicati o non richiesti (commerciali o di altro tipo);
-- diffamare, usare in modo improprio, molestare, minacciare o altrimenti violare i diritti legali (ad esempio il diritto alla protezione dei dati personali e i diritti di pubblicità) di terzi;
-- pubblicare, inserire, caricare, distribuire o divulgare argomenti, nomi, informazioni o materiale inappropriato, blasfemo, diffamatorio, osceno, indecente o illegale;
 - caricare o rendere altrimenti disponibili file contenenti immagini, foto, software o altro materiale protetto dalle leggi sulla proprietà intellettuale, incluse, in via esemplificativa, le leggi sul copyright o i marchi registrati, o da diritti di privacy o di pubblicità, salvo che l'Utente possegga o controlli i suddetti diritti o abbia ricevuto il necessario consenso;
 - usare materiali o informazioni, incluse immagini o foto, resi disponibili tramite i Servizi, in alcun modo atto a violare copyright, marchi, brevetti, segreti commerciali o altri diritti di proprietà di terzi;
 - caricare file contenenti virus, trojan horse, worm, time bomb, cancelbot, file danneggiati o altri software o programmi in grado di compromettere l'utilizzo del computer o della proprietà di terzi;
